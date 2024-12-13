@@ -1,0 +1,71 @@
+13:27:03.346 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\siris\eclipse-workspace\Opencart\master.xml"
+13:27:03.550 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\siris\eclipse-workspace\Opencart\master.xml
+
+13:27:07.473 [main] INFO  testCases.TC006_Address - ...Starting TC006_Address..... 
+13:27:09.901 [main] INFO  testCases.TC006_Address - Providing Address Details
+13:27:10.391 [main] INFO  testCases.TC006_Address - Selecting country randomly
+13:27:11.535 [main] INFO  testCases.TC006_Address - Selecting region randomly
+13:30:36.151 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\siris\eclipse-workspace\Opencart\master.xml"
+13:30:36.356 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\siris\eclipse-workspace\Opencart\master.xml
+
+13:30:39.488 [main] INFO  testCases.TC006_Address - ...Starting TC006_Address..... 
+13:30:41.487 [main] INFO  testCases.TC006_Address - Providing Address Details
+13:30:41.983 [main] INFO  testCases.TC006_Address - Selecting country randomly
+13:30:46.265 [main] INFO  testCases.TC006_Address - Selecting region randomly
+13:31:52.735 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\siris\eclipse-workspace\Opencart\master.xml"
+13:31:52.938 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\siris\eclipse-workspace\Opencart\master.xml
+
+13:31:56.498 [main] INFO  testCases.TC006_Address - ...Starting TC006_Address..... 
+13:31:58.668 [main] INFO  testCases.TC006_Address - Providing Address Details
+13:31:59.115 [main] INFO  testCases.TC006_Address - Selecting country randomly
+13:32:02.976 [main] INFO  testCases.TC006_Address - Selecting region randomly
+11:38:05.279 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\siris\eclipse-workspace\Opencart\master.xml"
+11:38:05.527 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\siris\eclipse-workspace\Opencart\master.xml
+
+11:38:51.761 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\siris\eclipse-workspace\Opencart\master.xml"
+11:38:51.985 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\siris\eclipse-workspace\Opencart\master.xml
+
+11:39:39.118 [main] INFO  testCases.TC007_Search - ...Starting TC002_LoginTest..... 
+11:39:40.798 [main] INFO  testCases.TC007_Search - ......login Successful.....
+11:40:15.624 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\siris\eclipse-workspace\Opencart\master.xml"
+11:40:15.844 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\siris\eclipse-workspace\Opencart\master.xml
+
+11:40:56.862 [main] INFO  testCases.TC007_Search - ...Starting TC007_Search..... 
+11:40:58.428 [main] INFO  testCases.TC007_Search - ......login Successful.....
+11:49:07.745 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\siris\eclipse-workspace\Opencart\master.xml"
+11:49:07.966 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\siris\eclipse-workspace\Opencart\master.xml
+
+11:49:12.702 [main] INFO  testCases.TC007_Search - ...Starting TC007_Search..... 
+11:49:14.071 [main] INFO  testCases.TC007_Search - ......login Successful.....
+11:49:15.459 [main] INFO  testCases.TC007_Search - Search result: Products meeting the search criteria
+11:49:15.465 [main] INFO  testCases.TC007_Search - Validation passed: The result matches the expected text.
+11:49:15.465 [main] INFO  testCases.TC007_Search - ...Ending TC007_Search..... 
+11:50:39.171 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\siris\eclipse-workspace\Opencart\master.xml"
+11:50:39.366 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\siris\eclipse-workspace\Opencart\master.xml
+
+11:50:45.003 [main] INFO  testCases.TC007_Search - ...Starting TC007_Search..... 
+11:50:46.653 [main] INFO  testCases.TC007_Search - ......login Successful.....
+11:50:48.132 [main] INFO  testCases.TC007_Search - Search result: Products meeting the search criteria
+11:50:48.137 [main] INFO  testCases.TC007_Search - Validation passed: The result matches the expected text.
+11:50:48.137 [main] INFO  testCases.TC007_Search - ...Ending TC007_Search..... 
+11:56:39.069 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\siris\eclipse-workspace\Opencart\master.xml"
+11:56:39.271 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\siris\eclipse-workspace\Opencart\master.xml
+
+11:56:50.528 [main] INFO  testCases.TC007_Search - ...Starting TC007_Search..... 
+11:56:52.046 [main] INFO  testCases.TC007_Search - ......Login Successful.....
+11:58:06.551 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\siris\eclipse-workspace\Opencart\master.xml"
+11:58:06.751 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\siris\eclipse-workspace\Opencart\master.xml
+
+11:58:12.431 [main] INFO  testCases.TC007_Search - ...Starting TC007_Search..... 
+11:58:14.169 [main] INFO  testCases.TC007_Search - ......Login Successful.....
+11:58:15.326 [main] INFO  testCases.TC007_Search - Random category selected.

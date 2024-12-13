@@ -1,0 +1,70 @@
+14:01:25.176 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1a1da881: 0 ms
+14:01:57.271 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\siris\eclipse-workspace\Opencart\master.xml"
+14:01:57.483 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\siris\eclipse-workspace\Opencart\master.xml
+
+14:02:02.176 [main] INFO  testCases.TC005_ForgotPassword - ...Starting TC005_ForgotPassword..... 
+14:02:04.581 [main] INFO  testCases.TC005_ForgotPassword - ...Finished TC005_ForgotPassword..... 
+12:47:57.461 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\siris\eclipse-workspace\Opencart\master.xml"
+12:47:57.694 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\siris\eclipse-workspace\Opencart\master.xml
+
+12:48:04.051 [main] INFO  testCases.TC006_Address - ...Starting TC006_Address..... 
+12:48:05.386 [main] INFO  testCases.TC006_Address - Providing Address Details
+12:48:44.598 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\siris\eclipse-workspace\Opencart\master.xml"
+12:48:44.810 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\siris\eclipse-workspace\Opencart\master.xml
+
+12:48:48.501 [main] INFO  testCases.TC006_Address - ...Starting TC006_Address..... 
+12:48:49.628 [main] INFO  testCases.TC006_Address - Providing Address Details
+12:50:19.138 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\siris\eclipse-workspace\Opencart\master.xml"
+12:50:19.336 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\siris\eclipse-workspace\Opencart\master.xml
+
+12:50:23.068 [main] INFO  testCases.TC006_Address - ...Starting TC006_Address..... 
+12:50:24.559 [main] INFO  testCases.TC006_Address - Providing Address Details
+12:51:29.479 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\siris\eclipse-workspace\Opencart\master.xml"
+12:51:29.687 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\siris\eclipse-workspace\Opencart\master.xml
+
+12:51:33.261 [main] INFO  testCases.TC006_Address - ...Starting TC006_Address..... 
+12:51:35.178 [main] INFO  testCases.TC006_Address - Providing Address Details
+13:01:31.572 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\siris\eclipse-workspace\Opencart\master.xml"
+13:01:31.785 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\siris\eclipse-workspace\Opencart\master.xml
+
+13:01:36.369 [main] INFO  testCases.TC006_Address - ...Starting TC006_Address..... 
+13:01:38.381 [main] INFO  testCases.TC006_Address - Providing Address Details
+13:06:53.339 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\siris\eclipse-workspace\Opencart\master.xml"
+13:06:53.562 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\siris\eclipse-workspace\Opencart\master.xml
+
+13:06:57.001 [main] INFO  testCases.TC006_Address - ...Starting TC006_Address..... 
+13:06:59.102 [main] INFO  testCases.TC006_Address - Providing Address Details
+13:06:59.561 [main] INFO  testCases.TC006_Address - Selecting country randomly
+13:07:01.125 [main] INFO  testCases.TC006_Address - Selecting region randomly
+13:10:13.663 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\siris\eclipse-workspace\Opencart\master.xml"
+13:10:13.877 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\siris\eclipse-workspace\Opencart\master.xml
+
+13:10:17.529 [main] INFO  testCases.TC006_Address - ...Starting TC006_Address..... 
+13:10:19.668 [main] INFO  testCases.TC006_Address - Providing Address Details
+13:10:20.131 [main] INFO  testCases.TC006_Address - Selecting country randomly
+13:10:21.537 [main] INFO  testCases.TC006_Address - Selecting region randomly
+13:18:46.664 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\siris\eclipse-workspace\Opencart\master.xml"
+13:18:46.866 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\siris\eclipse-workspace\Opencart\master.xml
+
+13:18:50.318 [main] INFO  testCases.TC006_Address - ...Starting TC006_Address..... 
+13:18:52.378 [main] INFO  testCases.TC006_Address - Providing Address Details
+13:18:52.837 [main] INFO  testCases.TC006_Address - Selecting country randomly
+13:18:54.625 [main] INFO  testCases.TC006_Address - Selecting region randomly
+13:18:54.971 [main] INFO  testCases.TC006_Address - Retrying region selection due to StaleElementReferenceException...
+13:23:14.990 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\siris\eclipse-workspace\Opencart\master.xml"
+13:23:15.237 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\siris\eclipse-workspace\Opencart\master.xml
+
+13:23:18.950 [main] INFO  testCases.TC006_Address - ...Starting TC006_Address..... 
+13:23:21.217 [main] INFO  testCases.TC006_Address - Providing Address Details
+13:23:21.714 [main] INFO  testCases.TC006_Address - Selecting country randomly
+13:23:22.355 [main] INFO  testCases.TC006_Address - Selecting region randomly
